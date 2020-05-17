@@ -1,0 +1,4 @@
+com.microsoft.sqlserver.jdbc.SQLServerDriver
+serveraddress
+username
+password
